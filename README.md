@@ -1,47 +1,66 @@
-# CodeAlpha Power BI Analytics
+# CodeAlpha Power BI Analytics Projects
 
-This repository contains my Power BI analytics projects completed as part of the CodeAlpha Internship.
+This repository contains my Power BI projects completed as part of the CodeAlpha internship.
 
-## Projects Completed
+## Completed Tasks
 
 ### Task 2 – Human Resources Analytics
-A Power BI dashboard analyzing:
-- Employee recruitment and hiring trends
+Power BI dashboard analyzing:
+- Recruitment and hiring trends
 - Employee turnover
-- Job satisfaction
-- Performance ratings
-- Training and recruitment sources
+- Employee satisfaction
+- Employee performance
+- Training and recruitment source analysis
 
 **Tools:** Power BI, DAX, Power Query, Excel
+
+[View Task 2 – HR Analytics](./Task_2_HR_Analytics/)
+
+---
 
 ### Task 3 – Real Estate Market Trends
-A Power BI dashboard analyzing:
+Power BI dashboard analyzing:
 - Property prices
-- Rental yields and monthly rent
-- Property types and bedrooms
-- Demand and supply indicators
-- Geographic distribution of property demand
+- Rental yields
+- Demand and supply
+- Mortgage and unemployment indicators
+- Geographical property demand
 
 **Tools:** Power BI, DAX, Power Query, Excel
 
-> Note: The market indicators in this project are based on a synthetic dataset created for analytics practice.
+[View Task 3 – Real Estate](./Task_3_Real_Estate/)
+
+---
 
 ### Task 4 – Educational Performance & Resource Allocation
-A Power BI dashboard analyzing:
+Power BI dashboard analyzing:
 - Academic performance
-- Attendance and pass rates
-- School and student information
-- Classroom, computer, and teacher resource gaps
+- Attendance
+- Resource gaps
+- Resource utilization
 - Digital access
-- Resource utilization and adequacy
+- Classroom, computer, and teacher requirements
 
 **Tools:** Power BI, DAX, Power Query, Excel
 
-## Repository Structure
+[View Task 4 – Education](./Task_4_Education/)
 
-```text
-CodeAlpha_PowerBI_Analytics/
-│
-├── Task_2_HR_Analytics/
-├── Task_3_Real_Estate/
-└── Task_4_Education/
+---
+
+## Project Summary
+
+This project demonstrates practical skills in:
+
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Power BI Dashboard Development
+- DAX Measures
+- Power Query
+- Business Intelligence
+
+## Internship
+
+**CodeAlpha – Data Analytics / Power BI Internship**
+
+Completed Tasks: **2, 3, and 4**
